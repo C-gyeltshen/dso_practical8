@@ -21,7 +21,7 @@ export default function Home() {
 
   return (
     <main className="min-h-screen flex flex-col items-center p-4">
-      <h1 className="text-3xl font-bold mb-4">Practical 8 To-Do App</h1>
+      <h1 className="text-3xl font-bold mb-4">Practical 8 To-Do test</h1>
       <div className="flex gap-2 mb-4">
         <input
           className="border px-4 py-2 rounded"
